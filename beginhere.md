@@ -11,7 +11,7 @@ Let's get started!
 1. [What is Binary?](whatbinary.md)
 2. [Why Binary?](whybinary.md)
 3. [How to convert to Binary](howbinary.md)
-4. How to convert back from Binary
+4. [How to convert back from Binary](howbackbinary.md)
 
 
 
