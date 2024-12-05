@@ -1,8 +1,14 @@
 # What is Binary?
 
-## A numbering scheme in which there are only two possible values for each digit...
+### A numbering scheme in which there are only two possible values for each digit...
 
-# 0 or 1
+## 0 or 1
+
+It's the language computers use to process information because it matches their electrical circuits, which only have 2 states...
+
+### ON (1) or OFF (0)
+
+**Everything** a computer does happens by combining these 1s and 0s in patterns.
 
 In any sort of tech movie, they like to flash images like below. You might recognize it!
 
