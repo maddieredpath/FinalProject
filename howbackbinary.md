@@ -13,4 +13,6 @@ Great! You now know how to convert to and from binary numbers. Congrats!
 
 This course is now over. Click [here](beginhere.md) to get back to the training starting point.
 
-Or, click [here]
+Or, click [here](README.md) to go back to the introduction.
+
+## Thanks! Bye!!
