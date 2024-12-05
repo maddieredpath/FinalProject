@@ -13,5 +13,7 @@ Let's get started!
 3. [How to convert to Binary](howbinary.md)
 4. [How to convert back from Binary](howbackbinary.md)
 
+Need to go back home? I hate to see you go! But if you have to... Click [HERE](README.md)
+
 
 
