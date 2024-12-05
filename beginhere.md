@@ -9,7 +9,7 @@ Let's get started!
 *We suggest starting at the top, but, you do you!*
 
 1. [What is Binary?](whatbinary.md)
-2. Why Binary?
+2. [Why Binary?](whybinary.md)
 3. How to convert to Binary
 4. How to convert back from Binary
 5. How to use Binary
