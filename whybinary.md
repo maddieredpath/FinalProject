@@ -13,3 +13,9 @@ They are the foundation of how computers and digital systems operate. They are..
 3. Universal
    1. All digital technology uses binary
    2. Makes it easier to develop and standardize
+
+Now that we know a little about WHY...
+
+Let's learn HOW to convert to binary
+
+Or, let's go [BACK](beginhere.md)!
