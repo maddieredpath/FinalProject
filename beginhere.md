@@ -8,9 +8,9 @@ Let's get started!
 
 *We suggest starting at the top, but, you do you!*
 
-1. Why Binary?
-2. How to convert to Binary?
-3. How to convert back from Binary?
+1. Why Binary
+2. How to convert to Binary
+3. How to convert back from Binary
 4. How to use Binary
 
 
