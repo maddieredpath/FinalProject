@@ -16,4 +16,5 @@
 Simple as that!
 
 Great. Now let's find out how to convert back from [binary to decimal]!
+
 Or, let's go [HOME](beginhere.md)!
