@@ -15,6 +15,6 @@
 
 Simple as that!
 
-Great. Now let's find out how to convert back from [binary to decimal]!
+Great. Now let's find out how to convert back from [binary to decimal](howbackbinary.md)!
 
-Or, let's go [HOME](beginhere.md)!
+Or, let's go [BACK](beginhere.md)!
