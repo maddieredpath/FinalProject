@@ -16,6 +16,6 @@ They are the foundation of how computers and digital systems operate. They are..
 
 Now that we know a little about WHY...
 
-Let's learn HOW to convert to binary
+Let's learn [HOW](howbinary.md) to convert to binary
 
 Or, let's go [BACK](beginhere.md)!
